@@ -1,0 +1,7 @@
+If anyone wants to check it on their own system, they must install this library on their laptop:
+# pip install skyfield matplotlib requests numpy
+
+Will my code run on his/her terminal
+# cd Space 
+then
+# python satellite_tracker.py
